@@ -1,0 +1,45 @@
+body {
+    background-image: url(images/bg.jpg);
+}
+
+header {
+    width: 1000px;
+}
+
+#navbar {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+#navbar li {
+    display: inline-block;
+    margin-left: 20px;
+    border-radius: 40px;
+    padding: 8px;
+}
+
+.logo {
+
+    float: left;
+    margin-left: 200px;
+}
+
+#navbar a {
+    text-decoration: none;
+    color: #E7D5A1;
+}
+
+#navbar {
+    padding-top: 60px;
+    padding-left: 440px;
+}
+
+#navbar .li-active {
+    background-color: #9F301B;
+}
+h1
+{
+    text-align: center;
+    color: #E7D5A1;
+}
